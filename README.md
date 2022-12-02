@@ -1,5 +1,9 @@
-### Hi there 👋
-
+###  👋 Hi, I’m @Shiroe
+- 👀 I’m interested in Software engineering, beautiful UI/UX experiences to game development and design
+- 🌱 I’m currently working and learning more skills in frontend dev
+- 💞️ I’m looking to collaborate on various projects/applications
+- 📫 You can reach me through here or my other social handles, I do watch them 😄
+- ⚡ Fun fact: I love CriticalRole
 <!--
 **Shiroe/Shiroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
